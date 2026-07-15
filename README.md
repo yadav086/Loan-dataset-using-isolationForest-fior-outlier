@@ -1,1 +1,1 @@
-# Loan-dataset-using-isolationForest-fior-outlier
+# Loan-dataset-using-isolationForest-for-outlier
